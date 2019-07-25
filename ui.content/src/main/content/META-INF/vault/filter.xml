@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/echo20"/>
+    <filter root="/content/echo20"/>
+    <filter root="/content/dam/echo20"/>
+</workspaceFilter>
